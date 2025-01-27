@@ -63,6 +63,7 @@
     background-image: url(video.png);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: 100vh;
     margin-bottom: 50px;
 }
